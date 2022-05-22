@@ -13,11 +13,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ARMmbed/minar-platform-mbed.git"
+    "url": "git@github.com:he2she/minar-platform-mbed.git"
   },
-  "homepage": "https://github.com/ARMmbed/minar-platform-mbed",
+  "homepage": "https://github.com/he2she/minar-platform-mbed",
   "bugs": {
-    "url": "http://github.com/ARMmbed/minar-platform-mbed/issues",
+    "url": "http://github.com/he2she/minar-platform-mbed/issues",
     "email": "project@hostname.com"
   },
   "author": "Martin Kojtal <Martin.Kojtal@arm.com>",
